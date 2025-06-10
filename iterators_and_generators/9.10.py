@@ -1,0 +1,1 @@
+# 10. Create a context manager that uses a generator to manage a resource.
